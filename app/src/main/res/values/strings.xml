@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Mad Level 4 Task 2</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+
+    <string name="page_start_welcome_txt">Welcome</string>
+    <string name="page_start_header_txt">Instructions: select rock, paper or scissors to play.</string>
+    <string name="page_start_info_txt">Your all time statistics</string>
+
+    <string name="page_home_title">Your Game History</string>
+    <string name="draw">Draw</string>
+    <string name="win">Win</string>
+    <string name="lose">Lose</string>
+    <string name="you_win">You win!</string>
+    <string name="computer_wins">Computer wins!</string>
+    <string name="VS">V.S.</string>
+
+    <string name="computer">Computer</string>
+    <string name="you">You</string>
+    <string name="result">Win: %1$d Draw: %2$d Lose: %3$d</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="Rock">Rock</string>
+    <string name="Paper">Paper</string>
+    <string name="Scissor">Scissor</string>
+</resources>
